@@ -1,0 +1,50 @@
+
+body {
+  background-color:#4aa96c ;
+}
+
+.head {
+  margin:18px;
+  font-size: 3.5rem;
+  color: #99154e;
+  font-family: 'ZCOOL KuaiLe', cursive;
+  text-align: center;
+  display:block;
+}
+.btn {
+  border: 10px;
+  border-style: solid;
+  border-color: black;
+  border-radius: 15%;
+  color: white;
+  display: inline-block;
+  margin: 30px 15px 30px 15px;
+  width: 230px;
+  height: 230px;
+  cursor: pointer;
+}
+#tab1{
+  background-color: red;
+}
+#tab2{
+  background-color: green;
+}
+#tab3{
+  background-color: blue;
+}
+#tab4{
+  background-color:gold;
+}
+
+.container{
+  text-align: center;
+}
+.pressed{
+  border-style: inset;
+  border-color: white;
+  border-radius: 18%;
+}
+
+.wrong{
+  background-color: #26001b;
+}
